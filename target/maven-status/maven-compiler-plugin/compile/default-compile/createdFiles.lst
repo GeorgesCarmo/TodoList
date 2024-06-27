@@ -1,0 +1,10 @@
+br\com\georgescarmo\todolist\task\ITaskRepository.class
+br\com\georgescarmo\todolist\user\IUserRepository.class
+br\com\georgescarmo\todolist\filter\FilterTaskAuth.class
+br\com\georgescarmo\todolist\user\UserController.class
+br\com\georgescarmo\todolist\errors\ExceptionHandlerController.class
+br\com\georgescarmo\todolist\task\TaskModel.class
+br\com\georgescarmo\todolist\TodolistApplication.class
+br\com\georgescarmo\todolist\user\UserModel.class
+br\com\georgescarmo\todolist\utils\Utils.class
+br\com\georgescarmo\todolist\task\TaskController.class
